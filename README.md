@@ -1,5 +1,5 @@
 ## Welcome to the risk of rain 2 clone
-
+## [Trello](https://trello.com/b/Gh0KrjgR/vertical-slice-3d)
 ### Game Info: 
 This project started durring my second year at Media College. The goal was to replicate 10 seconds of gameplay.
 We chose risk of rain because it seemed like the most realistic choice to be challenging and fun at the same time.
